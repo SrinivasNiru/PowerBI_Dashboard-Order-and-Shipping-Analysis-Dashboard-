@@ -1,0 +1,1 @@
+This dashboard provides a comprehensive analysis of product orders and shipping modes. It helps track order volumes, shipping trends, and delivery performance across different modes such as Standard, Express, and Same-Day delivery
